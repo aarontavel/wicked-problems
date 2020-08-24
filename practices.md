@@ -4,4 +4,4 @@ These are various plots created in R-Studio as directed by "Getting Started with
 
 #Path of a Running Boy
 
-![] R_Practice_1
+![] (R_Practice_1.png)
