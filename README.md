@@ -2,4 +2,4 @@
 
 This is my page for DATA100
 
-![](practices.md)
+![Initial Practices](practices.md)
