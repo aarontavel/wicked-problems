@@ -6,6 +6,6 @@ These are various plots created in R-Studio as directed by "Getting Started with
 
 ![](R_Practice_1.png)
 
-# A Person's Path Between Homes
+# Challenge Question
 
 ![](Path_Between_Homes.png)
