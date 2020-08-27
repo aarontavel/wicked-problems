@@ -2,4 +2,4 @@
 
 This is my page for DATA100
 
-![Introduction to R-Studio: Initial Plot + Challenge Question](practices.md)
+[Introduction to R-Studio: Initial Plot + Challenge Question](practices.md)
