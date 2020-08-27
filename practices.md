@@ -8,6 +8,5 @@ These are various plots created in R-Studio as directed by "Getting Started with
 
 # Challenge Question
 
-![](Path_Between_Homes.png)
-
 <img src="Path_Between_Homes.png" width="600" height="600" />
+
