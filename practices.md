@@ -4,7 +4,7 @@ These are various plots created in R-Studio as directed by "Getting Started with
 
 # Path of a Running Boy
 
-<img src="R_Practice_1.png" width="1200" height="1600" />
+<img src="R_Practice_1.png" width="600" height="800" />
 
 # Challenge Question
 
