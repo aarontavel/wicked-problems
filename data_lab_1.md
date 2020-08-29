@@ -1,6 +1,9 @@
 # Data Management Basics
 These are various plots comparing data about various Liberian Counties.
 
+# Data Used:
+[Liberian County Data](data_lab_1.txt)
+
 # Total Population of Each County, Including Indication of Male and Female Counts:
 <img src="Stacked_Men_Women-1.png" width="600" height="600" />
 
