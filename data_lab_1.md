@@ -10,6 +10,6 @@ These are various plots comparing data about various Liberian Counties.
 # Difference in Percent Female Between Source and Remote Population Datasets:
 ![](Per_Female_Difference.pdf)
 
-# Population Density of Each County
+# Population Density of Each County:
 ![](Density_Counties.pdf)
 
