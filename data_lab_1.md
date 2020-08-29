@@ -2,14 +2,13 @@
 These are various plots comparing data about various Liberian Counties.
 
 # Total Population of Each County, Including Indication of Male and Female Counts:
-![](Stacked_Men_Women.pdf)
+<img src="Stacked_Men_Women.pdf" width="600" height="600" />
 
 # Difference in Total Population Between Source and Remote Population Datasets:
-![](Population_Difference.pdf)
+<img src="Population_Difference.pdf" width="600" height="600" />
 
 # Difference in Percent Female Between Source and Remote Population Datasets:
-![](Per_Female_Difference.pdf)
+<img src="Per_Female_Difference.pdf" width="600" height="600" />
 
 # Population Density of Each County:
-![](Density_Counties.pdf)
-
+<img src="Density_Counties.pdf" width="600" height="600" />
