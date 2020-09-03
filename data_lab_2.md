@@ -7,5 +7,5 @@
 <img src="doctor_region.png" width="600" height="600" />
 
 # Total Number of Enrolled Students Per Region
-<img src="enrolled_region.png" width="600" height="600" />
+<img src="total_enrolled.png" width="600" height="600" />
 
