@@ -9,4 +9,3 @@
 # Total Number of Enrolled Students Per Region
 <img src="enrolled_region.png" width="600" height="600" />
 
-
