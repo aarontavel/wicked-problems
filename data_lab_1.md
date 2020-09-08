@@ -18,4 +18,4 @@ This bar graph analyzes the difference in percentage of females per county betwe
 
 # Population Density of Each County:
 <img src="Density_Counties-1.png" width="600" height="600" />
-This bar graph analyzes the population density of both genders in each Liberian County.
+This bar graph analyzes the population density of the total population in each Liberian County.
