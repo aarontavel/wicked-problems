@@ -4,6 +4,7 @@ These are various plots created in R-Studio as directed by "Getting Started with
 
 # Path of a Running Boy
 <img src="R_Practice_1.png" width="600" height="600" />
+This plot utilizes the plot feature to connect various coordinates with a straight line. 
 
 # Path Between Homes
 <img src="Path_Between_Homes0.png" width="600" height="600" />
