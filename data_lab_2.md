@@ -10,4 +10,4 @@ This stacked bargraph plot represents the total number of institutions per regio
 
 # Total Number of Enrolled Students Per Region
 <img src="total_enrolled.png" width="600" height="600" />
-This stacked bargraph plot represents the total number of students enrolled in a college that offers atleast a four-year degree per region, with each region being further condesnsed by the total number of students enrolled in college in each state
+This stacked bargraph plot represents the total number of students enrolled in a college that offers atleast a four-year degree per region, with each region being further condesnsed by the total number of students enrolled in college in each state.
