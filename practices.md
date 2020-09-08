@@ -15,3 +15,4 @@ This plot connects three randomly chosen dwellings with the xspline() function, 
 This plot increases the limits of the plot's area, randomly places a specified number of dwellings and trees, and randomly selected 7 dwelling, connects them with the xspline() function, and labels each selected dwelling.
 
 
+
