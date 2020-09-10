@@ -1,4 +1,4 @@
-﻿Predicting Poker with Data Science
+﻿Solving Poker with Data Science
 
   
 
