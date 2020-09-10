@@ -8,7 +8,7 @@ One of the biggest challenges with solving poker is the concept of bluffing, whe
 
 In another attempt to *solve* poker, a group at the University of Alberta created Cepheus, which is considered to be “the first computer program to play an essentially perfect game of poker” (Travnik, Beck, 2014-2015). Cepheus’ creators claim that while no perfect solution to heads-up limit Texas hold’em poker has been found, Cepheus has played over a “billion, billion hands of poker”, thus getting extremely close to a perfect solution (Travnik, Beck, 2014-2015). This computer program was created without any guidance from humans besides the rules of the game. Over the course of two months, Cepheus was able to build a massive library of previous hands played, thus, the program is able to respond to almost every situation presented by humans. Cepheus is able to accomplish its near-perfect record without deception, nor revealing to its opponents that they are not playing against a human.
 
-While the unpredictability of how a human will behave in poker will limit data science to be used to 100% predict what will happen, the advancements of EEG and Cepheus have allowed data scientists to make strides in the right direction in order to get close to the 100% mark.
+While the unpredictability of how a human will behave in poker will limit data science to be used to 100% predict what will happen, the advancements of EEG and Cepheus have allowed data scientists to make strides in the right direction in order to get close to solving poker
 
   
 ___
