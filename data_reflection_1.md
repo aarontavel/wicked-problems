@@ -11,6 +11,8 @@ In another attempt to *solve* poker, a group at the University of Alberta create
 While the unpredictability of how a human will behave in poker will limit data science to be used to 100% predict what will happen, the advancements of EEG and Cepheus have allowed data scientists to make strides in the right direction in order to get close to the 100% mark.
 
   
+___
+Citations:
 
 Cohen, O. (2019, June 22). Using Artificial Intelligence Methods To Win In Poker. Retrieved September 10, 2020, from https://towardsdatascience.com/using-artificial-intelligence-methods-to-win-in-poker-5559cc522f3b
 
