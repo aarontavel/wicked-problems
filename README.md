@@ -2,6 +2,8 @@
 
 This is my page for DATA100
 
+[Data Science Reflections](data_reflections.md)
+
 [Introduction to R-Studio: 8/19 - 8/24](practices.md)
 
 [Data Management Basics Lab 1: 8/26 - 8/28](data_lab_1.md)
