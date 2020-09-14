@@ -1,4 +1,4 @@
-# Data Management Basics Lab 2
+# Data Management Basics Lab pt. 2
 
 # Total Number of Applicants Per Region
 <img src="apps_region.png" width="600" height="600" />
