@@ -1,4 +1,4 @@
-# Data Management Basics
+# Data Management Basics Lab pt. 1
 These are various plots comparing data about various Liberian Counties.
 
 # Data Used:
