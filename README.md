@@ -12,4 +12,4 @@ This is my page for DATA100
 
 [Data Management Basics Lab pt. 3: 9/7 - 9/14](data_lab_1_3.md)
 
-[Data Management Basics Lab 2 pt. 1: 9/16-9/18](data_lab_2_1).md
+[Data Management Basics Lab 2 pt. 1: 9/16-9/18](data_lab_2_1.md)
