@@ -1,0 +1,37 @@
+
+quantmod object:   lm1601572911.30432 	Build date:  2020-10-01 13:21:51 
+
+Model Specified: 
+     Delt(Next(Cl(MAR))) ~ Delt(Cl(AAL)) + Delt(Cl(UAL)) + Delt(Cl(DAL)) +   Delt(Cl(LUV)) + Delt(Cl(SAVE)) 
+
+Model Target:  Delt.Next.Cl.MAR 		 Product:  MAR 
+Model Inputs:  Delt.Cl.AAL, Delt.Cl.UAL, Delt.Cl.DAL, Delt.Cl.LUV, Delt.Cl.SAVE 
+
+Fitted Model: 
+
+	Modelling procedure:  lm 
+	Training window:  140  observations from  2020-03-13 to 2020-09-30
+
+Call:
+lm(formula = quantmod@model.formula, data = training.data)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.13691 -0.02865  0.00111  0.02479  0.16754 
+
+Coefficients:
+               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   0.0002609  0.0040181   0.065 0.948317    
+Delt.Cl.AAL  -0.1798602  0.1029503  -1.747 0.082935 .  
+Delt.Cl.UAL   0.0096015  0.1551830   0.062 0.950758    
+Delt.Cl.DAL   0.0810749  0.2064247   0.393 0.695127    
+Delt.Cl.LUV  -0.5495945  0.1678588  -3.274 0.001351 ** 
+Delt.Cl.SAVE  0.4091139  0.1176417   3.478 0.000684 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.04724 on 133 degrees of freedom
+  (1 observation deleted due to missingness)
+Multiple R-squared:  0.1297,	Adjusted R-squared:  0.09701 
+F-statistic: 3.965 on 5 and 133 DF,  p-value: 0.002199
+
