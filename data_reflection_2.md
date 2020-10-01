@@ -6,6 +6,8 @@ NBA teams typically evaluate a player based on their floor spacing, defense, and
 
 In RAPTOR’s methodology, a “box” component is used where the individual statistics of a player are utilized, as well as an “on-off” component which describes how a team performs when a player is active and inactive during a large group of possessions. Moreover, RAPTOR is based on a previous data-science method, BPM, where a regression line is used with an independent variable of the “box component” and the “on-off” component as the dependent variable. Utilizing this framework allows RAPTOR to differentiate between a player who is naturally very good or an ok player who is on a very good team.
 
+While RAPTOR has some downfalls from being a soley mathmatical model, it is a large step in the right direction for data science and sports analysis. 
+
 _______________
 
 Silver, N. (2019, October 10). How Our RAPTOR Metric Works. Retrieved October 1, 2020, from https://fivethirtyeight.com/features/how-our-raptor-metric-works/
