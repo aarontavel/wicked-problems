@@ -1,0 +1,3 @@
+portfolio_growth_line.png
+portfolio_return_bar.png
+
