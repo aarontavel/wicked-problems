@@ -4,4 +4,4 @@
 
 <img src="georgia2.png" width="600" height="600" />
 
-<img src="detail.png" width="600" height="600" />
+<img src="details.png" width="600" height="600" />
