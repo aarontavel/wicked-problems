@@ -6,5 +6,5 @@
 
 [10/16/20 - FiveThirtyEight's 2020 Presidential Forcast Method](data_reflection_3.md) 
 
-[10/30/20 - Using Data Science to PredictWho Will Win the 2020 Presidential Election](data_reflection_4.md)
+[10/30/20 - Using Data Science to Predict Who Will Win the 2020 Presidential Election](data_reflection_4.md)
 
