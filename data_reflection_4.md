@@ -1,9 +1,5 @@
-﻿
 
-
-> Written with [StackEdit](https://stackedit.io/).Data Science for Predicting Presidential Elections
-
- Predicting Elections with Data Science
+Predicting Elections with Data Science
  
 As the 2020 election rapidly approaches, Americans around the country are increasingly impatient and want a correct prediction for who will win immediately. These predictions have become increasingly accurate recently due to advances in data science methods. The two data science methods that are used for forecasting the election are fundamentals based models and polls based models. The former uses “GDP growth, demographic data, and other fundamental data” to predict elections, while the latter uses “state and national polls to make predictions” (Bakthavachalam, 2019). At the beginning of an election cycle, poll-based models are not used often since they are not accurate because the election is so far away, and there are various confounding variables such as name recognition that would skew the results. Therefore, fundamentals based models are used more often at the beginning of the cycle, and polls based models become more prominent closer to election day.
 
