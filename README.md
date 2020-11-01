@@ -22,4 +22,6 @@ This is my page for DATA100
 
 [Data Management Basics Lab 3 pt. 2: 10/12 - 10/16](data_lab_3_2.md)
 
-[Data Management Basics Lab 4 pt. 1: 10/19 - 10/30](data_lab_4_1.md)
+[Data Management Basics Lab 4 pt. 1: 10/19 - 10/23](data_lab_4_1.md)
+
+[Data Management Basics Lab 4 pt. 2: 10/26 - 10/30](data_lab_4_2.md)
