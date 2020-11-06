@@ -16,5 +16,5 @@ The first plot depicts a historgram of the density of the topographical data on 
 
 # Density Plot of Night Time Lights
 <img src="geo_ntl.png" width="600" height="600" />
-<img src="geo_ntl_map.png" width="600" height="600" />
+<img src="geo_ntl_map.pdf" width="600" height="600" />
 The first plot depicts a historgram of the density of the night time lights in Georgia on top of a probability density function of Georgia's night time lights. The second plot depicts the night time lights as a visual in the country of Georgia. Georgia's adm2 boundaries are depicted, as well as the density the night time lights in Georgia. Green indicates a higher density of the lights, and white indicates a lower density. 
