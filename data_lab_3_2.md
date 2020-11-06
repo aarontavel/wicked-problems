@@ -1,4 +1,4 @@
-# Data Management Basics Lab 3 pt. 2
+# Data Management Basics Lab 3 
 
 # Deliverable 1 - Plot of Georgia
 <img src="georgia.png" width="600" height="600" />
