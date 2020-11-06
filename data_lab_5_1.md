@@ -1,5 +1,6 @@
 # Data Science Management Basics Lab 5 Pt. 1
 
+
 # Population Density
 <img src="geo_overlap.png" width="600" height="600" />
 The plot depicts a historgram of the population density on top of a probability density function of Georgia.
