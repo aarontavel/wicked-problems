@@ -8,3 +8,4 @@
 
 [10/30/20 - Using Data Science to Predict Who Will Win the 2020 Presidential Election](data_reflection_4.md)
 
+[11/13/20 - In-person timed data science reflection](data_reflection_5.md)
